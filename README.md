@@ -1,22 +1,8 @@
 # Udacity - Hosting Udagram Fullstack Application
 
-## Instructions
-
-- The documentation folder attached in the project folder includes separate pages on different topics:
-  1.  Infrastructure description.
-  2.  App dependencies.
-  3.  Pipeline process.
-- This project require some prequesites and dependenscies to be installed.
-
----
-
 ## Usage
 
-[(Back to top)](#table-of-contents)
-
-You can Install this project to your PC using clone the repo to your github account then Download It as a ZIP File to your PC.
-
-or Clone it using GIT `git clone` if you access it from GITHUB.
+`git clone`
 
 ---
 
