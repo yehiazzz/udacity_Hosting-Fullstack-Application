@@ -8,11 +8,11 @@
 
 - All Data In The ScreenShots File Attached With The Project Files.
 
-
 ---
+
 ## S3 Bucket
 
-S3-Bucket [App] Link: [http://nasif-udagram.s3-website-us-east-1.amazonaws.com](http://nasif-udagram.s3-website-us-east-1.amazonaws.com)
+S3-Bucket [App] Link: [http://udagrambucket.s3-website.us-east-2.amazonaws.com](http://udagrambucket.s3-website.us-east-2.amazonaws.com)
 
 - All Detials In The ScreenShots File Attached With The Project Files.
 
@@ -20,9 +20,6 @@ S3-Bucket [App] Link: [http://nasif-udagram.s3-website-us-east-1.amazonaws.com](
 
 ## Elastic Beanstalk:
 
-EB Link : [http://udagram-api-dev.eba-zkgyif57.us-east-1.elasticbeanstalk.com/](http://udagram-api-dev.eba-zkgyif57.us-east-1.elasticbeanstalk.com/)
+EB Link : [ http://udagram-app-api-dev.eba-cj2mnmpz.us-east-1.elasticbeanstalk.com](http://udagram-app-api-dev.eba-cj2mnmpz.us-east-1.elasticbeanstalk.com)
 
 - All Detials In The ScreenShots File Attached With The Project Files.
-
-
-
