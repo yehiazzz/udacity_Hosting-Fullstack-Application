@@ -66,6 +66,20 @@ Unit tests are using the Jasmine Framework.
 
 ## The e2e tests are using Protractor and Jasmine.
 
+## S3 Bucket
+
+S3-Bucket [App] Link: [http://udagrambucket.s3-website.us-east-2.amazonaws.com](http://udagrambucket.s3-website.us-east-2.amazonaws.com)
+
+- All Detials In The ScreenShots File Attached With The Project Files.
+
+---
+
+## Elastic Beanstalk:
+
+EB Link : [ http://udagram-app-api-dev.eba-cj2mnmpz.us-east-1.elasticbeanstalk.com](http://udagram-app-api-dev.eba-cj2mnmpz.us-east-1.elasticbeanstalk.com)
+
+- All Detials In The ScreenShots File Attached With The Project Files.
+
 ## Built With
 
 - [Angular](https://angular.io/) - Single Page Application Framework
